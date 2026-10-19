@@ -41,7 +41,7 @@ The project is intended to support an Android application and may use official t
 
 Download or clone this repository:
 
-git clone https://github.com/YOUR-USERNAME/Angel-Music.git
+git clone https://github.com/ANGEL/Angel-Music.git
 
 Replace "ANGEL" with your GitHub username.
 
